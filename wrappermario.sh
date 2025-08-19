@@ -1,0 +1,3 @@
+exec zsh -i -c "/Users/amartin/scripts/descargarstories.sh mario_rubio boss_the_shiba \"/Users/amartin/Library/CloudStorage/GoogleDrive-a.martinro@gmail.com/Mi unidad/Clientes video/MarioRubio/MRStories/\""
+#exec zsh -i -c "/Users/amartin/scripts/descargarstories.sh mario_rubio tuvideopromocional.es \"/Users/amartin/Library/CloudStorage/GoogleDrive-a.martinro@gmail.com/Mi unidad/Clientes video/MarioRubio/MRStories/\""
+#exec zsh -i -c "/Users/amartin/scripts/descargarstories.sh mario_rubio quantumprime25 \"/Users/amartin/Library/CloudStorage/GoogleDrive-a.martinro@gmail.com/Mi unidad/Clientes video/MarioRubio/MRStories/\""
